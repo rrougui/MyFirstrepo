@@ -1,0 +1,6 @@
+https://github.com/seleniumpandaofficial/MyFirstRepo
+
+create a folder - trainer's assignments
+right click and git bash here
+git init
+git pull https://github.com/seleniumpandaofficial/MyFirstRepo

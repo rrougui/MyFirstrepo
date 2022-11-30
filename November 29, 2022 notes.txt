@@ -1,0 +1,23 @@
++Advantages of waterfall model
+1. Quality of product will be good
+
+2. Since changes are not allowed, obviously less bugs
+
+3. Initial investments are also less, since testers are hired at a later stage
+
+4. Preferred for smaller projects which are less or not at all dynamic in nature
+
+
+Advantages of Spiral model
+Testing is done for every cycle
+Customer will get to use the software for every version/module
+Change in requirements are accommodated
+
+Disadvantage:
+
+
+QA vs QC vs QE
+
+Quality Assurance is process related
+Quality Control is software testing
+Quality Engineering/Engineer (Automation Software Tester)
